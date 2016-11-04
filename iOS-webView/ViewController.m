@@ -39,7 +39,6 @@
     //4. 视图添加
     [self.view addSubview:webView];
     
-    WKWebsiteDataStore * data
     
 }
 
